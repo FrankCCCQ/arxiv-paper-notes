@@ -1,0 +1,39 @@
+SKILL.md
+  s_ddd24ea09d28c5::t_56efc0ee3cbf89 1-158
+scripts/check_note.py
+  s_ddd24ea09d28c5::t_2fc154f2ccc211 1-142
+scripts/fetch_arxiv.py
+  s_ddd24ea09d28c5::t_a87596c6ec2605 1-460
+.gitignore
+  s_ddd24ea09d28c5::t_c6d74aff948d7c 1-3
+README.md
+  s_ddd24ea09d28c5::t_19d369755d203d 1-68
+references/checklist.md
+  s_ddd24ea09d28c5::t_691a194becd078 1-38
+references/writing-style.md
+  s_ddd24ea09d28c5::t_df06c8b4c61bc8 1-73
+scripts/html_parse.py
+  s_ddd24ea09d28c5::t_acd6dc367d52f6 1-212
+scripts/latex_parse.py
+  s_ddd24ea09d28c5::t_837ec3f496dbeb 1-731
+scripts/repo_diagram.py
+  s_ddd24ea09d28c5::t_8bc0a8a28e8831 1-228
+templates/note.md
+  s_ddd24ea09d28c5::t_1ad6de4e5d2b8a 1-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3f790ee4fae608da02c0bbe0769b089695388350",
+  "prompts": {},
+  "sessions": {
+    "s_ddd24ea09d28c5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "54ce4018-2a67-456e-b767-15c3ffc6e20f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "FrankCCCQ <18758409801@163.com>"
+    }
+  }
+}
